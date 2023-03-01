@@ -1,5 +1,5 @@
 from tkinter import *
-me=Tk()
+me=Tk() 
 me.title('Lê Minh Nhật') # Đặt tên cho giao diện
 me.geometry('300x400')   # Thay đổi kích thước giao diện 
 me['bg']='white' # Thay đổi background
